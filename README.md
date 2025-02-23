@@ -15,5 +15,5 @@ Interactive web implementation of the Caesar Cipher algorithm using Streamlit.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/caesar-cipher.git
+git clone https://github.com/Paenuth/caesar-cipher.git
 cd caesar-cipher
