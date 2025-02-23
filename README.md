@@ -12,8 +12,11 @@ Interactive web implementation of the Caesar Cipher algorithm using Streamlit.
 - Preserves case and special characters
 - Responsive web interface
 
-## Installation
+## Installation locally
 
 ```bash
 git clone https://github.com/Paenuth/caesar-cipher.git
 cd caesar-cipher
+pip install -r requirements.txt
+streamlit run app.py
+
