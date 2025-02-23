@@ -1,6 +1,6 @@
 # 🔐 Caesar Cipher Web App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](TBA)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ajkjvnezrzdhtgatnrxpz9.streamlit.app)
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 
 Interactive web implementation of the Caesar Cipher algorithm using Streamlit.
